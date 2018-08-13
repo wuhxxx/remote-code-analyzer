@@ -1,1 +1,1 @@
-devenv Project4.sln /rebuild debug
+devenv remote-code-analyzer.sln /rebuild debug
